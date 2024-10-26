@@ -26,13 +26,24 @@ Global_Sales | Total sales all over the world | Float |
 ### Persona and Questions
 
 The user is an investor who is looking for a game project to invest in, while studying the video games world, with the purpose of helping to develop and produce a new video game. The user is trying to find an answer to 3 simple and 1 complex question:
+
 Simple questions:
+
 * What are the publishers that have the highest profit in selling video games? (Q1)
 * How do the sales of the most profitable platforms change for each region? (Q2)
 * When comparing the “Action” and “Sports” genres, which one has shown more profit growth (genre trends)? (Q3)
+  
 Complex question:
+
 * What is the publisher that has the highest profit in selling video games of the most popular genre between the years 2000 and 2020? (Q4)
 
+### User Requirements
+
+1. To answer the previous questions, user requirements that show what the user needs to visualize are defined below:
+  a. A good view would be a bar plot that shows the value of the global sales for the publishers that present the highest values.
+  b. A filter could also be used to select just the top 10 publishers.
+  c. The user can highlight the most profitable publisher by creating a new calculated field.
+3.
 
 
 
