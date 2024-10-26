@@ -40,10 +40,10 @@ Complex question:
 ### User Requirements
 
 1. To answer the previous questions, user requirements that show what the user needs to visualize are defined below:
-  a. A good view would be a bar plot that shows the value of the global sales for the publishers that present the highest values.
-  b. A filter could also be used to select just the top 10 publishers.
-  c. The user can highlight the most profitable publisher by creating a new calculated field.
-3.
+  * A good view would be a bar plot that shows the value of the global sales for the publishers that present the highest values.
+  * A filter could also be used to select just the top 10 publishers.
+  * The user can highlight the most profitable publisher by creating a new calculated field.
+2.
 
 
 
