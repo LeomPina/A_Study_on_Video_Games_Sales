@@ -61,10 +61,13 @@ Complex question:
 
 ### Design
 
-The following design shows the final solution achieved using the Tableau software, based on the first draft previously presented.
+The following design shows the final solution achieved using the Tableau software:
 
-<img src="https://github.com/user-attachments/assets/477fc211-a290-4c8f-8453-2aa270c4600a" alt="Tableau Dashboard" width="500"/>
+<img src="https://github.com/user-attachments/assets/477fc211-a290-4c8f-8453-2aa270c4600a" alt="Tableau Dashboard" width="800"/>
 
+The following design shows the final solution achieved using the PowerBI software:
+
+<img src="https://github.com/user-attachments/assets/d5969783-797b-4d17-923d-0dacf5a054ec" alt="PowerBI Dashboard" width="800"/>
 
 
 
