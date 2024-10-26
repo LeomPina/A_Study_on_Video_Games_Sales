@@ -63,7 +63,7 @@ Complex question:
 
 The following design shows the final solution achieved using the Tableau software, based on the first draft previously presented.
 
-![Screenshot 2024-10-27 003950](https://github.com/user-attachments/assets/477fc211-a290-4c8f-8453-2aa270c4600a)
+<img src="https://github.com/user-attachments/assets/477fc211-a290-4c8f-8453-2aa270c4600a" alt="Tableau Dashboard" width="500"/)
 
 
 
