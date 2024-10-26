@@ -13,9 +13,25 @@ Name | Description | Domain |
 --- | --- | --- | 
 Rank | ordered ranking of the sales | Integer |
 Name | Name of the game | Nominal |
-Name | Name of the game | Nominal |
-Name | Name of the game | Nominal |
-Name | Name of the game | Nominal |
+Platform | Platform on which the game was released | Nominal |
+Year | Year the game was released | Integer |
+Genre | Genre of the game | Nominal |
+Publisher | Publisher of the game | Nominal |
+NA_Sales | Sales (in millions) of the game in North America | Float |
+EU_Sales | Sales (in millions) of the game in Europe | Float |
+JP_Sales | Sales (in millions) of the game in Japan | Float |
+Other_Sales | Sales (in millions) of the game in the rest of the world | Float |
+Global_Sales | Total sales all over the world | Float |
+
+### Persona and Questions
+
+The user is an investor who is looking for a game project to invest in, while studying the video games world, with the purpose of helping to develop and produce a new video game. The user is trying to find an answer to 3 simple and 1 complex question:
+Simple questions:
+* What are the publishers that have the highest profit in selling video games? (Q1)
+* How do the sales of the most profitable platforms change for each region? (Q2)
+* When comparing the “Action” and “Sports” genres, which one has shown more profit growth (genre trends)? (Q3)
+Complex question:
+* What is the publisher that has the highest profit in selling video games of the most popular genre between the years 2000 and 2020? (Q4)
 
 
 
